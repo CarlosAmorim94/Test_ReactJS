@@ -1,5 +1,6 @@
 # Testes
 
+Cada pasta, há projetos diferentes, com os testes aplicados!
 
 ## 🚀 Repositório criado pare aprender sobre testes utilizando
 
