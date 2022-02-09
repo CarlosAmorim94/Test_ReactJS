@@ -11,7 +11,7 @@ function Counter() {
   }
 
   return (
-    <div className="counter">
+    <main className="counter">
       <h1 className={`counter__title ${getModifier()}`}>{counter}</h1>
       <section className="buttons">
         <button
@@ -27,7 +27,7 @@ function Counter() {
           decrementar
         </button>
       </section>
-    </div>
+    </main>
   );
 }
 
